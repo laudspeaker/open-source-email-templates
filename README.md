@@ -17,11 +17,19 @@
   
 </p>
 
+Laudspeaker is an Open Source Cross-Channel Messaging platform. We make it eay to automate Email, sms + more, so you can reach your customers when, where and how you want.
+
+In this repo we include some free email templates you can find in our open source project!
+
 ## Two free html email templates here 
 
 The follwing 2 emails are included in this repo:
 
+## Review Email Template
+
 ![review](https://user-images.githubusercontent.com/7728266/208787512-1b49029e-0eed-4024-9514-da680a2690f7.png)
+
+## Invoice Email Template
 
 ![invoice](https://user-images.githubusercontent.com/7728266/208787522-64a7e438-18e2-4612-9b8f-1325f8daf13f.png)
 
@@ -29,7 +37,12 @@ The follwing 2 emails are included in this repo:
 
 For access to two more completely open source email templates (shown below) check out [Laudspeaker](https://github.com/laudspeaker/laudspeaker)
 
+## Reactivation Email Template
+
 ![reactivation](https://user-images.githubusercontent.com/7728266/208787691-5fecaefe-2eaa-4e79-826d-7c1a4b12ec16.png)
+
+## Newsletter Email Template
+
 ![newsletter](https://user-images.githubusercontent.com/7728266/208787693-7686ff81-336d-4288-b50e-2ae7a072dff3.png)
 
 
