@@ -1,4 +1,5 @@
-# open source html email templates
+# Open source free html email templates
+## Courtesy of Laudspeaker
 
 <p align="center"><a  href="https://laudspeaker.com/"><img  src="https://user-images.githubusercontent.com/7728266/194206039-0faecc9d-c500-4c64-8401-dfbefe501e4a.png"  height="100"/></a></p>
 
@@ -18,7 +19,7 @@
 </p>
 
 
-open source html email templates
+open source html email templates brought to you by Laudspeaker
 
 
 ## Two free html email templates here 
