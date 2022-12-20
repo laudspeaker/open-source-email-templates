@@ -1,4 +1,23 @@
-# open_source_emails
+# open source html email templates
+
+<p align="center"><a  href="https://laudspeaker.com/"><img  src="https://user-images.githubusercontent.com/7728266/194206039-0faecc9d-c500-4c64-8401-dfbefe501e4a.png"  height="100"/></a></p>
+
+<p align="center">
+<a href='https://laudspeakerusers.slack.com/ssb/redirect'><img alt="Join Slack Community" src="https://img.shields.io/badge/slack%20community-join-green"/></a>
+<a href='https://twitter.com/laudspeaker'><img alt="Follow Laudspeaker" src="https://img.shields.io/badge/%40laudspeaker-follow-blue"/></a>
+
+<h4 align="center">
+  <a href="https://join.slack.com/t/laudspeakerusers/shared_invite/zt-1li25huaq-BljJUA1Zm8dXvbZViAbMwg">Slack</a> |
+  <a href="https://app.laudspeaker.com/login/">Laudspeaker Cloud</a> |
+  <a href="https://laudspeaker.com/docs/guides/category/deploy">Self-Hosting</a> |
+  <a href="https://laudspeaker.com/docs/guides/overview/intro/">Docs</a> |
+  <a href="https://laudspeaker.com/">Website</a> |
+  <a href="https://www.producthunt.com/posts/laudspeaker/">Product Hunt</a>
+</h4>
+  
+</p>
+
+
 open source html email templates
 
 
