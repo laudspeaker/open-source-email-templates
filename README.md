@@ -2,11 +2,15 @@
 open source html email templates
 
 
+## Two free html email templates here 
+
 The follwing 2 emails are included in this repo:
 
 ![review](https://user-images.githubusercontent.com/7728266/208787512-1b49029e-0eed-4024-9514-da680a2690f7.png)
 
 ![invoice](https://user-images.githubusercontent.com/7728266/208787522-64a7e438-18e2-4612-9b8f-1325f8daf13f.png)
+
+## Two more free open source templates in our main project
 
 For access to two more completely open source email templates (shown below) check out [Laudspeaker](https://github.com/laudspeaker/laudspeaker)
 
