@@ -21,6 +21,9 @@ Laudspeaker is an Open Source Cross-Channel Messaging platform. We make it eay t
 
 In this repo we include some free email templates you can find in our open source project!
 
+## If this was helpful 
+Please give this repo and our main [repo](https://github.com/laudspeaker/laudspeaker) a ⭐
+
 ## Two free html email templates here 
 
 The follwing 2 emails are included in this repo:
